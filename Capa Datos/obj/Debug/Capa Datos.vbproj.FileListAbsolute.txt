@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\bin\Debug\Capa Datos.xml
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\obj\Debug\Capa_Datos.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\obj\Debug\Capa Datos.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\obj\Debug\Capa Datos.xml
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Datos\obj\Debug\Capa Datos.pdb

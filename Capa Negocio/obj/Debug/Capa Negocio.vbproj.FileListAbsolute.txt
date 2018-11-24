@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\bin\Debug\Capa Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\bin\Debug\Capa Negocio.pdb
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\bin\Debug\Capa Negocio.xml
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\bin\Debug\Capa Datos.dll
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\bin\Debug\Capa Datos.pdb
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\bin\Debug\Capa Datos.xml
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\obj\Debug\Capa_Negocio.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\obj\Debug\Capa Negocio.vbproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\obj\Debug\Capa Negocio.dll
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\obj\Debug\Capa Negocio.xml
+C:\Users\Usuario\Documents\Visual Studio 2008\Projects\SIGESVI\Capa Negocio\obj\Debug\Capa Negocio.pdb
