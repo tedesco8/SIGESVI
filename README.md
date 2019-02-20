@@ -1,4 +1,5 @@
 # SIGESVI
+![Dashboard](Dashboard.png)
 SIGESVI,(Sistema de Gestión Vitivinícola) es mi proyecto de egreso para el Instituto Superior Brazo Oriental, ISBO en el marco de mi Educación Técnico/Profesional.
 
 El mismo consta de la realización de un software vitivinícola cuya función principal es determinar la trazabilidad del vino.
